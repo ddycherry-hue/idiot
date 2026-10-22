@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone 15",
+      "category": "phones",
+      "price": 999,
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "Galaxy S24",
+      "category": "phones",
+      "price": 899,
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "title": "Macbook Air",
+      "category": "laptops",
+      "price": 1199,
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "title": "Airpods Pro",
+      "category": "audio",
+      "price": 249,
+      "rating": 4.7
+    },
+    {
+      "title": "Iphone 18 pro max",
+      "price": 2000,
+      "category": "phones",
+      "rating": 0,
+      "id": 5
+    }
+  ]
+}
